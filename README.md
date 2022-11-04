@@ -1,2 +1,2 @@
 # fast_api_tutorial_bitfumes
- In this repo, I will be code along with the tutorial.
+ In this repo, I will be coding along with the tutorial.
